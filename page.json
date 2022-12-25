@@ -1,11 +1,11 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Maker @links.dev & Software Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Xavier Devillers",
+  "description": "Choral Conductor, Singer & Scholar",
+  "image_url": "https://raw.githubusercontent.com/xdevillers/my-links/main/profile-picture.jpeg",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/xavierdevillers",
       "icon": "linkedin"
     },
     {
