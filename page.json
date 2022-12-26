@@ -1,7 +1,7 @@
 {
   "name": "Xavier Devillers",
   "description": "Choral Conductor, Singer & Scholar",
-  "image_url": "https://raw.githubusercontent.com/xdevillers/my-links/main/profile-picture.jpeg",
+  "image_url": "https://raw.githubusercontent.com/xdevillers/my-links/main/profile-picture.JPG",
   "links": [
     {
       "title": "LinkedIn",
@@ -9,48 +9,18 @@
       "icon": "linkedin"
     },
     {
-      "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
-      "icon": "github"
-    },
-    {
-      "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
-      "icon": "twitter"
-    },
-    {
       "title": "Buy me a coffee",
-      "url": "http://bit.ly/3FRuBcV",
+      "url": "https://www.buymeacoffee.com/xdevillers",
       "icon": "mug"
     },
     {
       "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
+      "url": "https://www.instagram.com/xavierdevillers/",
       "icon": "instagram"
     },
     {
-      "title": "Medium",
-      "url": "http://bit.ly/3I1ZYnV",
-      "icon": "medium"
-    },
-    {
-      "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
-      "icon": "youtube"
-    },
-    {
-      "title": "Side Project",
-      "url": "http://bit.ly/3hNX2AK",
-      "icon": "link"
-    },
-    {
-      "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
-      "icon": "click"
-    },
-    {
       "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
+      "url": "https://open.spotify.com/user/116704478?si=CFbbcIhKTVOsRm523Xy7Qw",
       "icon": "spotify"
     }
   ]
